@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    box-sizing: border-box;
+    font-family:arial;
+    color:ivory;
+}
+
+body{
+    background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+}
+img{
+    max-width: 100%;
+}
+/* navigation */
+.main-nav{
+    background: #243949;
+    height: 50px;
+}
+.main-nav ul,a{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}
+.main-nav li{
+    margin: 1rem;
+}
+
+a:hover{
+    color:turquoise;
+}
+
+/* wraper main content */
+
+.top-container{
+    margin: 30px 50px;
+    display: grid;
+    grid-gap: 20px;
+    justify-content:space-between;
+    grid-template-areas:
+    "cases showcase showcase showcase"
+    "deaths showcase showcase showcase"
+    "recovered showcase showcase showcase"
+}
+.cases{
+    grid-area: cases;
+}
+.deaths{
+    grid-area: deaths;
+}
+.recovered{
+    grid-area: recovered;
+}
+.showcase{
+    grid-area: showcase;
+    grid-template-rows:200px;
+}
+.topbox{
+    background: #517fa4;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 2rem;
+    border-radius:5px;
+}
+@media(max-width:700px){
+    .top-container{
+        margin: 30px 50px;
+        display: grid;
+        grid-gap: 20px;
+        grid-template-areas:
+        "cases"
+        "deaths "
+        "recovered"
+        "showcase"
+    }
+    .main-nav{
+        margin-left: -50px;
+    }
+    .showcase{
+        min-height:200px;
+    }
+}
+}

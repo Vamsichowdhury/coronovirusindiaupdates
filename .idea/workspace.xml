@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e18b4e1e-6ec1-4cbb-b4fc-d25817b24b66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/covid19app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/covid19app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements_personal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements_personal.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Zhfte3ob09WCs9gbWgdR8mAA5C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my_searchqp_project_whole_directory/searchqp" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\3rd_YEAR_PROJECT\coronovirusindiaupdates\static\covid19app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\3rd_YEAR_PROJECT\coronovirusindiaupdates\static\covid19app" />
+      <recent name="C:\Users\DELL\Desktop\3rd_YEAR_PROJECT\coronovirusindiaupdates\static\covid19app\js" />
+      <recent name="C:\Users\DELL\Desktop\3rd_YEAR_PROJECT\coronovirusindiaupdates\static\covid19app\images" />
+      <recent name="C:\Users\DELL\Desktop\3rd_YEAR_PROJECT\coronovirusindiaupdates\static\covid19app\css" />
+      <recent name="C:\Users\DELL\Desktop\3rd_YEAR_PROJECT\coronovirusindiaupdates\templates\covid19app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e18b4e1e-6ec1-4cbb-b4fc-d25817b24b66" name="Default Changelist" comment="" />
+      <created>1585296462172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585296462172</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1586235168958">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1586235168958" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1585363644276">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585363644276" />
+    <state x="374" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1586235121841">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="374" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1586235121841" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585410171634">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1585410171634" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+ beautifulsoup4==4.8.2
+certifi==2019.11.28
+chardet==3.0.4
+Django==2.1
+idna==2.9
+pytz==2019.3
+requests==2.23.0
+soupsieve==2.0
+urllib3==1.25.8
+remote origin already exists.
+
+STATIC_ROOT=os.path.join(BASE_DIR,'staticfiles')

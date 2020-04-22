@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'covid19app/css/style.css' %}">
+    <script src="{% static 'covid19app/js/slide.js' %}"></script>
+    <title>covid19indiaupdates</title>
+</head>
+<body>
+    <!-- main navigation -->
+    <div class="main-nav">
+        <ul>
+            <li><a href="{% url 'home' %}">Home</a></li>
+            <li><a href="{% url 'aboutme' %}" target="_blank">About me</a></li>
+        </ul>
+    </div>
+    <!-- top container -->
+
+    <section class="top-container">
+        <header class="showcase">
+            <img name="slide">
+        </header>
+        <p>Last updated:{{time}}</p>
+        <div class="topbox cases">
+            <h1>cases</h1>
+            <h3>{{cases}}</h3>
+        </div>
+        <div class="topbox deaths">
+            <h1>deaths</h1>
+            <h3>{{ deaths }}</h3>
+        </div>
+        <div class="topbox recovered">
+            <h1>recovered</h1>
+            <h3>{{ recovered }}</h3>
+        </div>
+    </section>
+</body>
+</html>
